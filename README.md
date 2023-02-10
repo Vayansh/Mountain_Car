@@ -40,6 +40,7 @@ Rewards Earned: -143.0
 Rewards Earned: -190.0
 
 ![image](https://user-images.githubusercontent.com/92180055/218165884-a11d337a-9af5-4901-a565-4af6d96f9efc.png)
+
 Rewards Earned: -107.0
 
 
