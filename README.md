@@ -9,6 +9,7 @@ To use Mountain Car game from OpenAI-GYM library and implement the Q-learning re
 
 ## Approach
 Using Greedy Epsilon Value algorithm, Q-value Action-value function, Mountain Car model of OpenAI-Gym to produce a reinforced model.
+
 Mountain Car Model link: https://www.gymlibrary.dev/environments/classic_control/mountain_car/
 
 ## Training Images 
