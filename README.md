@@ -1,5 +1,5 @@
 # Mountain_Car
-Creating a reinforcement learning model using Q-learning 
+Creating a reinforcement learning model using Q-learning to train AI car to climb up the mountain
 
 ## Motive
 To understand reinforcement Q-learning and how to implement the same. MeanWhile, understanding how to use OpenAI-GYM library.
